@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15352402606",
+    "project_id": "colorlist-lyx",
+    "storage_bucket": "colorlist-lyx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15352402606:android:4a29fa69d6d3997b5dd33f",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQCOJ39rJWjQl-OL0ODA7nkF8wS_zSGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15352402606:android:291c0618e1c721cb5dd33f",
+        "android_client_info": {
+          "package_name": "com.example.colorist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpQCOJ39rJWjQl-OL0ODA7nkF8wS_zSGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
